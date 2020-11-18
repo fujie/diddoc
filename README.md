@@ -22,8 +22,8 @@ didconということで以下をやってみました。
         * beta programに参加するには"Enroll in our beta program"の下の"Get an early preview of our latest updates!"をタップします。ベータプログラムに参加すると以下の様に表示されます。  
 <img src="./media/1.Authenticator.png" width=50%>  
     * ブラウザベースで動作するカスタムWallet
-        * スマホのブラウザ（iOSはSafariのみ、AndroidはChromeのみ）で以下のURLにアクセスしてください。
-        [https://browser-wallet.azurewebsites.net](https://browser-wallet.azurewebsites.net)
+        * スマホのブラウザ（iOSはSafariのみ、AndroidはChromeのみ）で以下のURLにアクセスしてください。  
+[https://browser-wallet.azurewebsites.net](https://browser-wallet.azurewebsites.net)
 
 
 ## チケットを発行する
@@ -33,7 +33,7 @@ didconということで以下をやってみました。
 * "Get your #didcon Ticket"と書かれたボタンをクリックします。  
 <img src="./media/2.issuer.png" width=80%>
 * QRコードが表示されるのでWallet（Microsoft AuthenticatorもしくはブラウザWallet）で読み取ります。  
-<img src="./media/3.issuer.png" width=80%>  
+<img src="./media/3.issuer.png" width=80%>
     * Microsoft Authenticatorを使っている場合は画面右肩より"Add account”、”Other account"を選択し、QRコードリーダーを起動できます。
     * ブラウザWalletを使っている場合は画面右上のアイコンをタップしてカメラを起動します。（カメラへのアクセス許可が要求されるので許可してください）  
     以下、ブラウザWalletを例に進めます。
@@ -51,5 +51,15 @@ didconということで以下をやってみました。
 
 
 ## チケットを検証する
+以下のWebページでチケットの検証と配信用Zoom URLを発行しています。
+[https://v.verifier.tokyo/](https://v.verifier.tokyo/)  
 
+* "Provide your #didcon ticket!"と書かれたボタンをクリックします。  
+<img src="./media/10.verifier.png" width=80%>  
+* QRコードが表示されるのでWallet（Microsoft AuthenticatorもしくはブラウザWallet）で読み取ります。  
+<img src="./media/11.verifier.png" width=80%>  
+* チケットが表示されるのでSubmitをタップします。  
+<img src="./media/12.Wallet.png" width=50%>  
+* ブラウザのQRコードの下にZoomのリンクが現れるのでZoomでdidconにご参加ください。  
+<img src="./media/13.verifier.png" width=80%>  
 
