@@ -2,6 +2,9 @@
 
 #idcon vol.28 DID特集その2 - その名も"#didcon"のチケットをVerifiable Credentials/Decentralized Identifiersで受け取ろう  
 
+## News
+* 11/18夕方現在、Microsoft Authenticatorのバックエンドシステムで障害が発生している模様です。ブラウザWalletをお使いください。復旧が確認出来次第情報を更新します。
+
 ※重要
 connpassとの連携は全くないので、正規の申し込みはconnpassからしてくださいね。  
 [https://idcon.connpass.com/event/191305/](https://idcon.connpass.com/event/191305/)
