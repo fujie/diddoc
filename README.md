@@ -7,7 +7,7 @@ connpassとの連携は全くないので、正規の申し込みはconnpassか�
 [https://idcon.connpass.com/event/191305/](https://idcon.connpass.com/event/191305/)
 
 ## News
-* 11/18夕方現在、Microsoft Authenticatorのバックエンドシステムで障害が発生している模様です。ブラウザWalletをお使いください。復旧が確認出来次第情報を更新します。
+* <s>11/18夕方現在、Microsoft Authenticatorのバックエンドシステムで障害が発生している模様です。ブラウザWalletをお使いください。復旧が確認出来次第情報を更新します。</s>
 
 
 
@@ -26,6 +26,7 @@ didconということで以下をやってみました。
 <img src="./media/0.Authenticator.png" width=50%>  
         * beta programに参加するには"Enroll in our beta program"の下の"Get an early preview of our latest updates!"をタップします。ベータプログラムに参加すると以下の様に表示されます。  
 <img src="./media/1.Authenticator.png" width=50%>  
+
     * ブラウザベースで動作するカスタムWallet
         * スマホのブラウザ（iOSはSafariのみ、AndroidはChromeのみ）で以下のURLにアクセスしてください。  
 [https://browser-wallet.azurewebsites.net](https://browser-wallet.azurewebsites.net)
