@@ -17,18 +17,19 @@ didconということで以下をやってみました。
 * 参加チケットを提示すると配信URL（Zoom）が表示されます
 
 ## 事前準備
-* WalletとしてMicrosoft Authenticatorもしくはブラウザで動作するカスタムWalletの2つをサポートしています。    
-    * Microsoft Authenticator
-        * Android版のみ
-        * 最新版：6.2010.7266
-        * beta programの有効化が必要
-        * アプリのHELP画面からバージョンの確認、beta programへの参加ができます。  
+WalletとしてMicrosoft Authenticatorもしくはブラウザで動作するカスタムWalletの2つをサポートしています。    
+* Microsoft Authenticator
+    * Android版のみ
+    * 最新版：6.2010.7266
+    * beta programの有効化が必要
+    * アプリのHELP画面からバージョンの確認、beta programへの参加ができます。  
+    * beta programに参加するには"Enroll in our beta program"の下の"Get an early preview of our latest updates!"をタップします。ベータプログラムに参加すると以下の様に表示されます。  
 <img src="./media/0.Authenticator.png" width=50%>  
-        * beta programに参加するには"Enroll in our beta program"の下の"Get an early preview of our latest updates!"をタップします。ベータプログラムに参加すると以下の様に表示されます。  
 <img src="./media/1.Authenticator.png" width=50%>  
 
-    * ブラウザベースで動作するカスタムWallet
-        * スマホのブラウザ（iOSはSafariのみ、AndroidはChromeのみ）で以下のURLにアクセスしてください。  
+* ブラウザベースで動作するカスタムWallet
+    * スマホのブラウザ（iOSはSafariのみ、AndroidはChromeのみ）で以下のURLにアクセスしてください。  
+
 [https://browser-wallet.azurewebsites.net](https://browser-wallet.azurewebsites.net)
 
 
